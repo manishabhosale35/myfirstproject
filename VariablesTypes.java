@@ -25,5 +25,10 @@ public class VariablesTypes {
  		 
 }
  	}
+
+
+ "Information about variable"
+
+
  
 
